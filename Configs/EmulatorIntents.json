@@ -10,7 +10,7 @@
             },
             {
                 "package": "com.fastemulator.gbcfree",
-                "activity": "com.fastemulator.gbcfree.EmulatorActivity",
+                "activity": "com.fastemulator.gbc.EmulatorActivity",
                 "type": "application/x-gbc-rom"
             }
         ]
@@ -26,7 +26,7 @@
             },
             {
                 "package": "com.fastemulator.gbcfree",
-                "activity": "com.fastemulator.gbcfree.EmulatorActivity",
+                "activity": "com.fastemulator.gbc.EmulatorActivity",
                 "type": "application/x-gbc-rom"
             }
         ]
@@ -42,7 +42,7 @@
             },
             {
                 "package": "com.fastemulator.gbafree",
-                "activity": "com.fastemulator.gbafree.EmulatorActivity",
+                "activity": "com.fastemulator.gba.EmulatorActivity",
                 "type": "application/x-gba-rom"
             }
         ]
