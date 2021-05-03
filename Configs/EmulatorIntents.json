@@ -1,0 +1,154 @@
+[
+    {
+        "console_slug": "GB",
+        "should_uncompress": false,
+        "intents": [
+            {
+                "package": "com.fastemulator.gbc",
+                "activity": "com.fastemulator.gbc.EmulatorActivity",
+                "type": "application/x-gbc-rom"
+            },
+            {
+                "package": "com.fastemulator.gbcfree",
+                "activity": "com.fastemulator.gbcfree.EmulatorActivity",
+                "type": "application/x-gbc-rom"
+            }
+        ]
+    },
+    {
+        "console_slug": "GBC",
+        "should_uncompress": false,
+        "intents": [
+            {
+                "package": "com.fastemulator.gbc",
+                "activity": "com.fastemulator.gbc.EmulatorActivity",
+                "type": "application/x-gbc-rom"
+            },
+            {
+                "package": "com.fastemulator.gbcfree",
+                "activity": "com.fastemulator.gbcfree.EmulatorActivity",
+                "type": "application/x-gbc-rom"
+            }
+        ]
+    },
+    {
+        "console_slug": "GBA",
+        "should_uncompress": false,
+        "intents": [
+            {
+                "package": "com.fastemulator.gba",
+                "activity": "com.fastemulator.gba.EmulatorActivity",
+                "type": "application/x-gba-rom"
+            },
+            {
+                "package": "com.fastemulator.gbafree",
+                "activity": "com.fastemulator.gbafree.EmulatorActivity",
+                "type": "application/x-gba-rom"
+            }
+        ]
+    },
+    {
+        "console_slug": "NES",
+        "should_uncompress": false,
+        "intents": [
+            {
+                "package": "com.portableandroid.classicboyLite",
+                "activity": "com.portableandroid.classicboy.EntryActivity",
+                "type": "*/*"
+            }
+        ]
+    },
+    {
+        "console_slug": "SNES",
+        "should_uncompress": false,
+        "intents": [
+            {
+                "package": "com.explusalpha.Snes9xPlus",
+                "activity": "com.imagine.BaseActivity",
+                "type": "*/*"
+            },
+            {
+                "package": "cl.godoiapps.snnes",
+                "activity": "com.jlizama.snnes.EmulatorActivity",
+                "type": "application/zip"
+            },
+            {
+                "package": "com.portableandroid.classicboyLite",
+                "activity": "com.portableandroid.classicboy.EntryActivity",
+                "type": "*/*"
+            }
+        ]
+    },
+    {
+        "console_slug": "N64",
+        "should_uncompress": true,
+        "intents": [
+            {
+                "package": "org.mupen64plusae.v3.fzurita",
+                "activity": "paulscode.android.mupen64plusae.SplashActivity",
+                "type": "*/*"
+            },
+            {
+                "package": "paulscode.android.mupen64plus",
+                "activity": "paulscode.android.mupen64plusae.MainActivity",
+                "type": "*/*"
+            },
+            {
+                "package": "paulscode.android.mupen64plus.free",
+                "activity": "paulscode.android.mupen64plusae.MainActivity",
+                "type": "*/*"
+            }
+        ]
+    },
+    {
+        "console_slug": "PSX",
+        "should_uncompress": true,
+        "intents": [
+            {
+                "package": "com.portableandroid.classicboyLite",
+                "activity": "com.portableandroid.classicboy.EntryActivity",
+                "type": "*/*"
+            },
+            {
+                "package": "com.emulator.fpse",
+                "activity": "com.emulator.fpse.Main",
+                "action": "android.intent.action.VIEW",
+                "type": "*/*"
+            }
+        ]
+    },
+    {
+        "console_slug": "Genesis",
+        "should_uncompress": false,
+        "intents": [
+            {
+                "package": "com.portableandroid.classicboyLite",
+                "activity": "com.portableandroid.classicboy.EntryActivity",
+                "type": "*/*"
+            }
+        ]
+    },
+    {
+        "console_slug": "Dreamcast",
+        "should_uncompress": true,
+        "intents": [
+            {
+                "package": "com.reicast.emulator",
+                "activity": "com.reicast.emulator.MainActivity",
+                "action": "android.intent.action.VIEW",
+                "type": "*/*"
+            }
+        ]
+    },
+    {
+        "console_slug": "NDS",
+        "should_uncompress": true,
+        "intents": [
+            {
+                "package": "com.NewDsemu.FreeDraStic",
+                "activity": "com.dsemu.drastic.DraSticActivity",
+                "type": "*/*"
+            }
+        ]
+    }
+]
