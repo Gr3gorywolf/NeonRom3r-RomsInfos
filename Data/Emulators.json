@@ -1,0 +1,140 @@
+{
+    "GBA": [{
+            "name": "My Boy! Free - GBA Emulator",
+            "image": "https://lh3.ggpht.com/WUe6xG1SKSE28VRjJrzjWJW4NjkjBrGyLMjL6e-8DUctRFe1WPrBGIqHTV7WUydXOGU=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=com.fastemulator.gbafree",
+            "is_compatible": true
+        },
+        {
+            "name": "My Boy! - GBA Emulator",
+            "image": "https://lh3.ggpht.com/7BAl299O4VckTmuDzghLoPN8lAMjNO1vFYAypOGtq0RcM6sS_EOr5jM4ScIB-o1uiw=s180-rw",
+            "download_link": "https://gr3gorywolf.github.io/getromdownload/Myboy.html",
+            "is_compatible": true
+        },
+        {
+            "name": "ClassicBoy (Emulator)",
+            "image": "https://lh3.ggpht.com/3CMkT48MFzkbjXLaTLEvV_9ftWGDEHNtUWgydg8N1uG4yN8a_0gmmg3uSDx--AzEWw=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=com.portableandroid.classicboyLite",
+            "is_compatible": true
+        }
+    ],
+    "SNES": [{
+            "name": "ClassicBoy (Emulator)",
+            "image": "https://lh3.ggpht.com/3CMkT48MFzkbjXLaTLEvV_9ftWGDEHNtUWgydg8N1uG4yN8a_0gmmg3uSDx--AzEWw=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=com.portableandroid.classicboyLite",
+            "is_compatible": true
+        },
+        {
+            "name": "Snes9x EX+",
+            "image": "https://lh3.ggpht.com/L1XDJfH2IhZ_TclVa-KAHGcTZ8Dpah9JJ_ieOPsrvdQosq5_NC2JKri3i4t7USThtF0=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=com.explusalpha.Snes9xPlus",
+            "is_compatible": true
+        },
+        {
+            "name": "SNNES",
+            "image": "https://lh3.ggpht.com/UREDnaR7h9DszWQDCHBqn1fWHLZ95e5IaGBF3OemRuHwowNPbDzB_KYAWab684UN7Cas=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=cl.godoiapps.snnes",
+            "is_compatible": true
+        }
+    ],
+    "N64": [{
+            "name": "Mupen64Plus FZ (N64 Emulator)",
+            "image": "https://lh3.googleusercontent.com/GSCFPtOlFPYhQeXg54cFufecwznJbsoJTeTxCXQpwwNrQcvM4nBKSmwVlCre-GlyMuE=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=org.mupen64plusae.v3.fzurita",
+            "is_compatible": true
+        },
+        {
+            "name": "Mupen64Plus AE (GRATIS)",
+            "image": "https://lh3.ggpht.com/GUqdj4BAKvrV-QXAY42B56s7p2onRKNQ6NXq4w9rVXl96IR6GXecxKoKnncEgPscxer7=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=paulscode.android.mupen64plus.free",
+            "is_compatible": true
+        },
+        {
+            "name": "Mupen64+ AE (Emulador de N64)",
+            "image": "https://lh3.ggpht.com/rHiI9vTURCrdsprC5HsB74D8CcxdjJDSb91Gkq0baPcarSZ2uGjsrkSh_RH_uZ0hZg=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=paulscode.android.mupen64plus",
+            "is_compatible": true
+        }
+    ],
+    "NES": [{
+        "name": "ClassicBoy (Emulator)",
+        "image": "https://lh3.ggpht.com/3CMkT48MFzkbjXLaTLEvV_9ftWGDEHNtUWgydg8N1uG4yN8a_0gmmg3uSDx--AzEWw=s180-rw",
+        "download_link": "https://play.google.com/store/apps/details?id=com.portableandroid.classicboyLite",
+        "is_compatible": true
+    }],
+    "GBC": [{
+            "name": "My OldBoy! Free - GBC Emulator",
+            "image": "https://lh3.ggpht.com/LYKc32HzHpLk0pDZIvGrXiZCnqupHEIguuIdkFuSANB5sVzNCAqShVfqtI5V-LppmxI=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=com.fastemulator.gbcfree",
+            "is_compatible": true
+        },
+        {
+            "name": "My OldBoy! - GBC Emulator",
+            "image": "https://lh3.ggpht.com/WAb2O-e1URsGhW7E_BosgxOLybnXJf-k84243MfzTul5VWyRF-diuzC-nhjrQAEkMs0=s180-rw",
+            "download_link": "https://gr3gorywolf.github.io/getromdownload/Myoldboy.html",
+            "is_compatible": true
+        },
+        {
+            "name": "ClassicBoy (Emulator)",
+            "image": "https://lh3.ggpht.com/3CMkT48MFzkbjXLaTLEvV_9ftWGDEHNtUWgydg8N1uG4yN8a_0gmmg3uSDx--AzEWw=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=com.portableandroid.classicboyLite",
+            "is_compatible": true
+        }
+    ],
+    "Genesis": [{
+        "name": "ClassicBoy (Emulator)",
+        "image": "https://lh3.ggpht.com/3CMkT48MFzkbjXLaTLEvV_9ftWGDEHNtUWgydg8N1uG4yN8a_0gmmg3uSDx--AzEWw=s180-rw",
+        "download_link": "https://play.google.com/store/apps/details?id=com.portableandroid.classicboyLite",
+        "is_compatible": true
+    }],
+    "GB": [{
+            "name": "My OldBoy! Free - GBC Emulator",
+            "image": "https://lh3.ggpht.com/LYKc32HzHpLk0pDZIvGrXiZCnqupHEIguuIdkFuSANB5sVzNCAqShVfqtI5V-LppmxI=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=com.fastemulator.gbcfree",
+            "is_compatible": true
+        },
+        {
+            "name": "My OldBoy! - GBC Emulator",
+            "image": "https://lh3.ggpht.com/WAb2O-e1URsGhW7E_BosgxOLybnXJf-k84243MfzTul5VWyRF-diuzC-nhjrQAEkMs0=s180-rw",
+            "download_link": "https://gr3gorywolf.github.io/getromdownload/Myoldboy.html",
+            "is_compatible": true
+        },
+        {
+            "name": "ClassicBoy (Emulator)",
+            "image": "https://lh3.ggpht.com/3CMkT48MFzkbjXLaTLEvV_9ftWGDEHNtUWgydg8N1uG4yN8a_0gmmg3uSDx--AzEWw=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=com.portableandroid.classicboyLite",
+            "is_compatible": true
+        }
+    ],
+    "PSX": [{
+            "name": "ePSXe for Android",
+            "image": "https://lh3.ggpht.com/xm13cRUNfN917GRFZql6MrtL9gDYvvoj1kINpZyFNadRAGbDmrK8gB5V-PvuhtvBmA=s180-rw",
+            "download_link": "https://gr3gorywolf.github.io/getromdownload/epsxe.html",
+            "is_compatible": "No compatible"
+        },
+        {
+            "name": "FPse para Android",
+            "image": "https://lh3.ggpht.com/3eer_Q6vG2boAwNPEC2JDL433MHEFCLO2pCXPonNI-oOocxVjceN93lOp_PW6ohvfF0=s180-rw",
+            "download_link": "https://gr3gorywolf.github.io/getromdownload/fpse.html",
+            "is_compatible": true
+        },
+        {
+            "name": "ClassicBoy (Emulator)",
+            "image": "https://lh3.ggpht.com/3CMkT48MFzkbjXLaTLEvV_9ftWGDEHNtUWgydg8N1uG4yN8a_0gmmg3uSDx--AzEWw=s180-rw",
+            "download_link": "https://play.google.com/store/apps/details?id=com.portableandroid.classicboyLite",
+            "is_compatible": true
+        }
+    ],
+    "Dreamcast": [{
+        "name": "Reicast - Dreamcast emulator (Bios instalation needed after download)",
+        "image": "https://lh3.googleusercontent.com/UZHin6Iango72jl3OvdKjPZ5yKDK1qgdKdfgwz2qnkFXu97ju_Stq0zYrNKx8kIQ86c=s180-rw",
+        "download_link": "https://play.google.com/store/apps/details?id=com.reicast.emulator",
+        "is_compatible": true
+    }],
+    "NDS": [{
+        "name": "DraStic Español",
+        "image": "https://lh3.googleusercontent.com/fyOy1bFOen89oWzXImJYNJYce1des9y_jYohNt_WOVFpQbJ7ReSL7hCea2xPTVyf7gd9=s180-rw",
+        "download_link": "https://gr3gorywolf.github.io/getromdownload/Drastic.html",
+        "is_compatible": true
+    }]
+}
