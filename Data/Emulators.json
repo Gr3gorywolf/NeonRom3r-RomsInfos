@@ -110,7 +110,7 @@
             "name": "ePSXe for Android",
             "image": "https://lh3.ggpht.com/xm13cRUNfN917GRFZql6MrtL9gDYvvoj1kINpZyFNadRAGbDmrK8gB5V-PvuhtvBmA=s180-rw",
             "download_link": "https://gr3gorywolf.github.io/getromdownload/epsxe.html",
-            "is_compatible": "No compatible"
+            "is_compatible": true
         },
         {
             "name": "FPse para Android",
