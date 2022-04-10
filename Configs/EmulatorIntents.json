@@ -145,8 +145,50 @@
         "should_uncompress": true,
         "intents": [
             {
+                "package": "com.dsemu.drastic",
+                "activity": "com.dsemu.drastic.DraSticActivity",
+                "type": "*/*"
+            },
+            {
                 "package": "com.NewDsemu.FreeDraStic",
                 "activity": "com.dsemu.drastic.DraSticActivity",
+                "type": "*/*"
+            }
+        ]
+    },
+    {
+        "console_slug": "Psp",
+        "should_uncompress": true,
+        "intents": [
+            {
+                "package": "org.ppsspp.ppssppgold",
+                "activity": "org.ppsspp.ppsspp.PpssppActivity",
+                "type": "*/*"
+            },
+            {
+                "package": "org.ppsspp.ppsspp",
+                "activity": "org.ppsspp.ppsspp.PpssppActivity",
+                "type": "*/*"
+            }
+        ]
+    },
+    {
+        "console_slug": "Gamecube",
+        "should_uncompress": true,
+        "intents": [
+            {
+                "package": "org.mm.jj",
+                "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
+                "type": "*/*"
+            },
+            {
+                "package": "org.mm.j",
+                "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
+                "type": "*/*"
+            },
+            {
+                "package": "org.dolphinemu.dolphinemu",
+                "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
                 "type": "*/*"
             }
         ]
