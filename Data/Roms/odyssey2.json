@@ -1,0 +1,2876 @@
+[
+  {
+    "title": "._Course de Voitures + Autodrome + Cryptogramme",
+    "size": "4096",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/._Course de Voitures + Autodrome + Cryptogramme (France).png",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "._Frogger",
+    "size": "4096",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/._Frogger (Brazil).png",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "._Great Wall Street Fortune Hunt, The",
+    "size": "4096",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/._Great Wall Street Fortune Hunt, The (USA, Europe).png",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "._Popeye",
+    "size": "4096",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/._Popeye (Brazil).png",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "._Q-Bert",
+    "size": "4096",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/._Q-Bert (Europe).png",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "._Satellite Attack",
+    "size": "4096",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/._Satellite Attack (Europe).png",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "128-in-1 Multicart",
+    "size": "628168",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/128-in-1 Multicart (USA).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "4 en 1 Ligne",
+    "size": "528937",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/4 en 1 Ligne (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/4 en 1 Ligne (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/4 en 1 Ligne (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/4 en 1 Ligne (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "4 in 1 Row",
+    "size": "627019",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/4 in 1 Row (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/4 in 1 Row (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/4 in 1 Row (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "56 Game Multicart",
+    "size": "80792",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/56 Game Multicart (USA).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "57 Game Multicart",
+    "size": "363650",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/57 Game Multicart (USA).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "59 Game Multicart",
+    "size": "323730",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/59 Game Multicart (USA).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "72-in-1 Multicart",
+    "size": "517016",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/72-in-1 Multicart (USA).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Abelhas Assassinas!",
+    "size": "524858",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Abelhas Assassinas! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Acerte Seu Numero!",
+    "size": "469246",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Acerte Seu Numero! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Acoplagem! Resgate!",
+    "size": "459390",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Acoplagem! Resgate! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Acrobatas!",
+    "size": "502381",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Acrobatas! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Acrobates, Les",
+    "size": "428550",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Acrobates, Les (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Air Battle",
+    "size": "411046",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Air Battle (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Air-Sea War Battle",
+    "size": "593041",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Air-Sea War Battle (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Alien Invaders - Plus",
+    "size": "440963",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Alien Invaders - Plus (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Alien Invaders - Plus (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Alien Invaders - Plus (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Alien Invaders - Plus (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Alien Invaders - Plus!",
+    "size": "533943",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Alien Invaders - Plus! (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Alien!",
+    "size": "538543",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Alien! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Alpine Skiing",
+    "size": "323222",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Alpine Skiing (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Alpine Skiing (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Alpine Skiing (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Alpine Skiing (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "American Football",
+    "size": "643499",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/American Football (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Amok",
+    "size": "575258",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Amok (USA) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Amok (USA) (Unl).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Armored Encounter + Sub Chase",
+    "size": "429296",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Armored Encounter + Sub Chase (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Armored Encounter + Sub Chase (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Armored Encounter + Sub Chase (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Armored Encounter + Sub Chase (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Aterrissagem!",
+    "size": "151048",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Aterrissagem! (Brazil) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Atlantis",
+    "size": "561067",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Atlantis (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Atlantis (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Atlantis (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Atlantis (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Attack of the Timelord",
+    "size": "501303",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Attack of the Timelord (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Attack of the Timelord (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Attack of the Timelord (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Attack of the Timelord (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Attrape la balle Morpion",
+    "size": "714841",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Attrape la balle Morpion (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Bacara!",
+    "size": "338840",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Bacara! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Backgammon",
+    "size": "578674",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Backgammon (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Balao Travesso!",
+    "size": "455883",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Balao Travesso! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Barao Vermelho!",
+    "size": "489137",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Barao Vermelho! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Barricada!",
+    "size": "439885",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Barricada! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Baseball",
+    "size": "533667",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Baseball (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Baseball (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Baseball (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Baseball (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Baseball!",
+    "size": "459391",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Baseball! (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Basebol!",
+    "size": "425731",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Basebol! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Basket Game",
+    "size": "489185",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Basket Game (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Bataille Navale Combat de Chars",
+    "size": "513462",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Bataille Navale Combat de Chars (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Bataille sous marine Tir sur cible",
+    "size": "760834",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Bataille sous marine Tir sur cible (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Batalha Medieval!",
+    "size": "516788",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Batalha Medieval! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Battlefield",
+    "size": "759963",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Battlefield (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Bilhar!",
+    "size": "433478",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Bilhar! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Billard Electrique",
+    "size": "561809",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Billard Electrique (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Billard Electrique (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Billard Electrique (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Billard Electrique (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Billiard Americain",
+    "size": "502663",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Billiard Americain (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Billiard Americain (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Billiard Americain (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Billiard Americain (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Blackjack",
+    "size": "473404",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Blackjack (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Blackjack (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Blackjack (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Blackjack (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Blobbers, The",
+    "size": "678342",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Blobbers, The (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Blobbers, The (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Blobbers, The (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Blobbers, The (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Blockout + Breakdown",
+    "size": "597056",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Blockout + Breakdown (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Blockout + Breakdown (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Blockout + Breakdown (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Blockout + Breakdown (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Boliche! Basquetebol!",
+    "size": "449437",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Boliche! Basquetebol! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Bombardeio Submarino + Tiro ao Alvo",
+    "size": "548590",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Bombardeio Submarino + Tiro ao Alvo (Brazil).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Bombardeio Submarino + Tiro ao Alvo (Brazil).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Bombardeio Submarino + Tiro ao Alvo (Brazil).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Bombardeio Submarino + Tiro ao Alvo (Brazil).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Bowling + Basketball",
+    "size": "488330",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Bowling + Basketball (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Bowling + Basketball (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Bowling + Basketball (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Bowling + Basketball (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Buraco Negro",
+    "size": "484763",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Buraco Negro (Brazil).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Buraco Negro (Brazil).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Buraco Negro (Brazil).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Buraco Negro (Brazil).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Busqueda De Los Anillos",
+    "size": "309997",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Busqueda De Los Anillos (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Caca Niqueis!",
+    "size": "453230",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Caca Niqueis! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Cacador De Tubaroes!",
+    "size": "489253",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Cacador De Tubaroes! (Brazil) (Alt 1).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Calculadora!",
+    "size": "478542",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Calculadora! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Calculator!",
+    "size": "756812",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Calculator! (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Calculator! (USA) (Unl).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Casino Slot Machine",
+    "size": "361619",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Casino Slot Machine (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Casino Slot Machine (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Casino Slot Machine (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Casino Slot Machine (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Catapult",
+    "size": "528612",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Catapult (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Catch the Ball + Noughts and Crosses",
+    "size": "591522",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Catch the Ball + Noughts and Crosses (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Catch the Ball + Noughts and Crosses (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Catch the Ball + Noughts and Crosses (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Catch the Ball + Noughts and Crosses (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Champ de bataille",
+    "size": "791933",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Champ de bataille (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Chat et Souris",
+    "size": "529143",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Chat et Souris (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Chat et Souris (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Chat et Souris (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Chat et Souris (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Chess",
+    "size": "194082",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Chess (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Chess (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Chess (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Chess (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Chez Maxime",
+    "size": "16869",
+    "logo": "",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Chez Maxime (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Chinese Logic",
+    "size": "708866",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Chinese Logic (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Chinese Logic (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Chinese Logic (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Chinese Logic (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Cidade Dos Robos!",
+    "size": "451712",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Cidade Dos Robos! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Clay Pigeon",
+    "size": "398698",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Clay Pigeon (Brazil).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Clay Pigeon (Brazil).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Clay Pigeon (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Clay Pigeon (Brazil).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Comando Noturno",
+    "size": "607289",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Comando Noturno (Brazil).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Comando Noturno (Brazil).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Comando Noturno (Brazil).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Comando Noturno (Brazil).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Combattants de la liberte",
+    "size": "504883",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Combattants de la liberte (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Come - Come Das Trevas!",
+    "size": "37409",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Come - Come Das Trevas! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Come - Come II",
+    "size": "461590",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Come - Come II (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Come - Come!",
+    "size": "448439",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Come - Come! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Computer Golf",
+    "size": "308168",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Computer Golf (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Computer Golf (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Computer Golf (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Computer Golf (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Computer Golf!",
+    "size": "441522",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Computer Golf! (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Computer Intro",
+    "size": "304976",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Computer Intro (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Computer Intro (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Computer Intro (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Computer Intro (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Computer Programmer",
+    "size": "615041",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Computer Programmer (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Computer Programmer (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Computer Programmer (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Computer Programmer (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Conflit Cosmique",
+    "size": "442896",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Conflit Cosmique (Canada).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Conflit Cosmique (Canada).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Conflit Cosmique (Canada).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Conflit Cosmique (Canada).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Conflito Cosmico!",
+    "size": "450495",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Conflito Cosmico! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Conquest of the World",
+    "size": "283725",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Conquest of the World (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Conquest of the World (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Conquest of the World (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Conquest of the World (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Conquest Of The World",
+    "size": "230058",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Conquest Of The World (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Conquete Du Monde, La",
+    "size": "304950",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Conquete Du Monde, La (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Cosmic Conflict",
+    "size": "410019",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Cosmic Conflict (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Cosmic Conflict (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Cosmic Conflict (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Cosmic Conflict (Europe) (Alt 1).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Cosmic Conflict (Europe).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Cosmic Conflict (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Course de Voitures + Autodrome + Cryptogramme",
+    "size": "635732",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Course de Voitures + Autodrome + Cryptogramme (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Course de Voitures + Autodrome + Cryptogramme (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Course de Voitures + Autodrome + Cryptogramme (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Course de Voitures + Autodrome + Cryptogramme (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Course de Voitures Autodrome Cryptogramme",
+    "size": "635732",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Course de Voitures Autodrome Cryptogramme (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Crazy Chase",
+    "size": "666260",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Crazy Chase (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Dam buster",
+    "size": "719184",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Dam buster (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Defensores Da Liberdade!",
+    "size": "443878",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Defensores Da Liberdade! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Demon Attack",
+    "size": "317876",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Demon Attack (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Demon Attack (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Demon Attack (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Depth Charge + Marksman",
+    "size": "577024",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Depth Charge + Marksman (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Depth Charge + Marksman (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Depth Charge + Marksman (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Depth Charge + Marksman (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Desafio Chines",
+    "size": "521521",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Desafio Chines (Brazil).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Desafio Chines (Brazil).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Desafio Chines (Brazil).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Desafio Chines (Brazil).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Didi Na Mina Encantada!",
+    "size": "581133",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Didi Na Mina Encantada! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Die Suche Nach Den Ringen",
+    "size": "281589",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Die Suche Nach Den Ringen (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Duelo No Velho Oeste!",
+    "size": "480928",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Duelo No Velho Oeste! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Dynasty",
+    "size": "338069",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Dynasty (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Dynasty (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Dynasty (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Dynasty (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Electronic billiards",
+    "size": "612244",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Electronic billiards (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Electronic soccer Electronic ice hockey",
+    "size": "700338",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Electronic soccer Electronic ice hockey (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Electronic table football",
+    "size": "706370",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Electronic table football (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Electronic Table Soccer",
+    "size": "429954",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Electronic Table Soccer (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Electronic Table Soccer (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Electronic Table Soccer (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Electronic Table Soccer (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Electronic volleyball",
+    "size": "644184",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Electronic volleyball (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Em Busca Dos Aneis Perdidos",
+    "size": "270907",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Em Busca Dos Aneis Perdidos (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Eroberung Der Welt",
+    "size": "333812",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Eroberung Der Welt (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Esqui Nos Alpes!",
+    "size": "368518",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Esqui Nos Alpes! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Exojet",
+    "size": "12823",
+    "logo": "",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Exojet (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Flash Point",
+    "size": "505162",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Flash Point (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Fliperama!",
+    "size": "474218",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Fliperama! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Flipper game",
+    "size": "666511",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Flipper game (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Football",
+    "size": "399223",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Football (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Football (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Football (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Football (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Football Americain",
+    "size": "602834",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Football Americain (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Football de table electronique",
+    "size": "534458",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Football de table electronique (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Football Electronique + Hockey Electronique",
+    "size": "514488",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Football Electronique + Hockey Electronique (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Football Electronique + Hockey Electronique (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Football Electronique + Hockey Electronique (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Football Electronique + Hockey Electronique (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Football Electronique Hockey Electronique",
+    "size": "514488",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Football Electronique Hockey Electronique (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Football!",
+    "size": "484870",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Football! (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Formula 1! Interlagos! Crypto-Logic!",
+    "size": "511935",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Formula 1! Interlagos! Crypto-Logic! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Freedom Fighters",
+    "size": "697786",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Freedom Fighters (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Freedom Fighters (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Freedom Fighters (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Freedom Fighters (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Freedom Fighters!",
+    "size": "502081",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Freedom Fighters! (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Freedom Fighters+",
+    "size": "592694",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Freedom Fighters+ (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Frogger",
+    "size": "490363",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Frogger (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Frogger (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Frogger (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Frogger (Brazil).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Frogger (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Furia Assassina!",
+    "size": "201453",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Furia Assassina! (Brazil) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Futebol Americano!",
+    "size": "478447",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Futebol Americano! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Futebol de Salao! Hockey!",
+    "size": "448427",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Futebol de Salao! Hockey! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Futebol Eletronico!",
+    "size": "459840",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Futebol Eletronico! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Glouton et voraces",
+    "size": "437671",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Glouton et voraces (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Golf",
+    "size": "673287",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Golf (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Golf (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Golf (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Golf (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Golfe!",
+    "size": "343528",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Golfe! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Great Wall Street Fortune Hunt, The",
+    "size": "317627",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Great Wall Street Fortune Hunt, The (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Great Wall Street Fortune Hunt, The (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Great Wall Street Fortune Hunt, The (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Great Wall Street Fortune Hunt, The (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Guerra De Nervos!",
+    "size": "470145",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Guerra De Nervos! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Guerre de l'Espace",
+    "size": "769099",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Guerre de l'Espace (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Guerre Laser",
+    "size": "577648",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Guerre Laser (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Guerre Laser (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Guerre Laser (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Guerre Laser (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Gunfighter",
+    "size": "596202",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Gunfighter (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Gunfighter (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Gunfighter (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Gunfighter (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Hegemonie",
+    "size": "308887",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Hegemonie (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Helicopter Rescue",
+    "size": "710624",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Helicopter Rescue (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Hockey + Soccer",
+    "size": "440977",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Hockey + Soccer (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Hockey + Soccer (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Hockey + Soccer (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Hockey + Soccer (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "I've Got Your Number",
+    "size": "379110",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/I've Got Your Number (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/I've Got Your Number (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/I've Got Your Number (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/I've Got Your Number (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Identification Rendez-Vous-Spatial Logique",
+    "size": "461062",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Identification Rendez-Vous-Spatial Logique (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Interpol",
+    "size": "712826",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Interpol (Europe) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Interpol (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Interpol (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Interpol!",
+    "size": "492136",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Interpol! (Brazil) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Invaders from Hyperspace",
+    "size": "437716",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Invaders from Hyperspace (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Invaders from Hyperspace (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Invaders from Hyperspace (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Invaders from Hyperspace (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Invasao Alienigena!",
+    "size": "390075",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Invasao Alienigena! (Brazil) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Invasores Do Cosmos!",
+    "size": "461142",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Invasores Do Cosmos! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "J.G. Munchkin",
+    "size": "6204",
+    "logo": "",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/J.G. Munchkin (USA, Brazil) (Unl).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Jagten Pa Ringene",
+    "size": "302652",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Jagten Pa Ringene (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Jeu de Quilles + Basketball",
+    "size": "583484",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Jeu de Quilles + Basketball (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Jeu de Quilles + Basketball (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Jeu de Quilles + Basketball (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Jeu de Quilles + Basketball (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Jeu de Quilles Basketball",
+    "size": "583484",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Jeu de Quilles Basketball (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Jumping Acrobats",
+    "size": "450961",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Jumping Acrobats (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Jumping Acrobats (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Jumping Acrobats (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Jumping Acrobats (Europe) (Alt 1).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Jumping Acrobats (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "K.C. Munchkin",
+    "size": "417705",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/K.C. Munchkin (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/K.C. Munchkin (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/K.C. Munchkin (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/K.C. Munchkin (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "K.C. Munchkin!",
+    "size": "508165",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/K.C. Munchkin! (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "K.C.'s Krazy Chase",
+    "size": "410525",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/K.C.'s Krazy Chase (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/K.C.'s Krazy Chase (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/K.C.'s Krazy Chase (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/K.C.'s Krazy Chase (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Keyboard Creations",
+    "size": "376754",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Keyboard Creations (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Keyboard Creations (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Keyboard Creations (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Keyboard Creations (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Kill The Attacking Aliens",
+    "size": "439849",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Kill The Attacking Aliens (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Kill The Attacking Aliens (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Killer Bees",
+    "size": "439815",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Killer Bees (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Killer Bees (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Killer Bees (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Killer Bees (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Killer Bees+",
+    "size": "690947",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Killer Bees+ (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Kinder im Verkehr 1",
+    "size": "266261",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Kinder im Verkehr 1 (Germany).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Kinder im Verkehr 1 (Germany).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Kinder im Verkehr 1 (Germany).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Kinder im Verkehr 1 (Germany).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Kinder im Verkehr 2",
+    "size": "5768",
+    "logo": "",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Kinder im Verkehr 2 (Germany).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "La Quete des Anneaux",
+    "size": "326892",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/La Quete des Anneaux (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/La Quete des Anneaux (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/La Quete des Anneaux (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/La Quete des Anneaux (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Labyrinth Game, A + Supermind",
+    "size": "673787",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Labyrinth Game, A + Supermind (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Labyrinth Game, A + Supermind (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Labyrinth Game, A + Supermind (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Labyrinth Game, A + Supermind (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Labyrinthe, Le Superlogique",
+    "size": "751030",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Labyrinthe, Le Superlogique (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Las Vegas",
+    "size": "532284",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Las Vegas (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Las Vegas (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Las Vegas (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Las Vegas (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Las Vegas Blackjack",
+    "size": "284574",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Las Vegas Blackjack (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Las Vegas Blackjack (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Las Vegas Blackjack (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Las Vegas Blackjack (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Las Vegas gambling",
+    "size": "511432",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Las Vegas gambling (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Laser War",
+    "size": "637723",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Laser War (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Laser War (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Laser War (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Laser War (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Le Tresor Englouti",
+    "size": "8999",
+    "logo": "",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Le Tresor Englouti (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Ligue 4!",
+    "size": "433118",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Ligue 4! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Logica Chinesa!",
+    "size": "404615",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Logica Chinesa! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Logique Chionoise",
+    "size": "553747",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Logique Chionoise (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Loony Balloon",
+    "size": "427442",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Loony Balloon (Europe) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Loony Balloon (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Loony Balloon (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Macacos Me Mordam!",
+    "size": "492644",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Macacos Me Mordam! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Martian Threat",
+    "size": "5233",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Martian Threat (Europe) (Proto).png",
+    "portrait": "",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Martian Threat (Europe) (Proto) (Alt 1).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Martian Threat (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Matchmaker + Logix + Buzzword",
+    "size": "411255",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Matchmaker + Logix + Buzzword (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Matchmaker + Logix + Buzzword (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Matchmaker + Logix + Buzzword (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Matchmaker + Logix + Buzzword (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Matemagica! Jogo Da Memoria!",
+    "size": "366599",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Matemagica!   Jogo Da Memoria! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Math-A-Magic + Echo",
+    "size": "345495",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Math-A-Magic + Echo (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Math-A-Magic + Echo (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Math-A-Magic + Echo (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Math-A-Magic + Echo (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Mathematicien + Echo",
+    "size": "832209",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Mathematicien + Echo (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Mathematicien + Echo (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Mathematicien + Echo (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Mathematicien + Echo (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Maths Amusantes",
+    "size": "466893",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Maths Amusantes (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Melrep",
+    "size": "728546",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Melrep (Europe) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Memoria! Acoplagem! Senha!",
+    "size": "470840",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Memoria!   Acoplagem!   Senha! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Memoria! Senha! Palavra Secreta!",
+    "size": "432613",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Memoria!   Senha!   Palavra Secreta! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Mission Impossible",
+    "size": "314634",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Mission Impossible (Brazil) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Mission Impossible (Brazil) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Mission Impossible (Brazil) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Mission Impossible Programmed Trip",
+    "size": "624964",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Mission Impossible   Programmed Trip (2nd Edition) (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Monkeyshines",
+    "size": "810295",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Monkeyshines (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Monkeyshines (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Monkeyshines (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Monkeyshines (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Monkeyshines!",
+    "size": "473501",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Monkeyshines! (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Monster de l'espace",
+    "size": "859444",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Monster de l'espace (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Morse",
+    "size": "456358",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Morse (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Morse (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Morse (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Morse (Europe).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Morse (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Moto-Crash",
+    "size": "13663",
+    "logo": "",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Moto-Crash (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Mousing Cat, The",
+    "size": "472714",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Mousing Cat, The (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Mousing Cat, The (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Mousing Cat, The (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Mousing Cat, The (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Mr. Roboto!",
+    "size": "286313",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Mr. Roboto! (USA) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Mr. Roboto! (USA) (Unl).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Munchkin",
+    "size": "576262",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Munchkin (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Munchkin (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Munchkin (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Munchkin (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Mur Magique, Le",
+    "size": "606391",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Mur Magique, Le (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Mur Magique, Le (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Mur Magique, Le (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Mur Magique, Le (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Musician",
+    "size": "410098",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Musician (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Musician (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Musician (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Musician (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Musicien",
+    "size": "278584",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Musicien (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Neutron Star",
+    "size": "707117",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Neutron Star (Europe) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Neutron Star (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Neutron Star (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Newscaster",
+    "size": "270732",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Newscaster (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Newscaster (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Newscaster (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Newscaster (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Nightfighter",
+    "size": "566756",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Nightfighter (Europe) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Nightfighter (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Nightfighter (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Nightmare",
+    "size": "665822",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Nightmare (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Nightmare (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Nightmare (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Nightmare (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Nimble Numbers Ned",
+    "size": "397164",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Nimble Numbers Ned (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Nimble Numbers Ned (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Nimble Numbers Ned (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Nimble Numbers Ned (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Norseman",
+    "size": "572759",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Norseman   (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "O Malabarista + Jogo da Velha",
+    "size": "807603",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/O Malabarista + Jogo da Velha (Brazil).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/O Malabarista + Jogo da Velha (Brazil).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/O Malabarista + Jogo da Velha (Brazil).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/O Malabarista + Jogo da Velha (Brazil).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "O Malabarista Jogo da Velha",
+    "size": "716427",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/O Malabarista   Jogo da Velha (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "O Segredo do Farao",
+    "size": "449103",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/O Segredo do Farao (Brazil).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/O Segredo do Farao (Brazil).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/O Segredo do Farao (Brazil).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/O Segredo do Farao (Brazil).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Os Panzers Atacam! Batalha Aeronaval!",
+    "size": "478894",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Os Panzers Atacam!   Batalha Aeronaval! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Out of this World + Helicopter Rescue",
+    "size": "629349",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Out of this World + Helicopter Rescue (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Out of this World + Helicopter Rescue (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Out of this World + Helicopter Rescue (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Out of This World + Helicopter Rescue",
+    "size": "525828",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Out of This World + Helicopter Rescue (USA).png",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Out of This World + Helicopter Rescue (USA).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Out of this World! Helicopter Rescue!",
+    "size": "509850",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Out of this World!   Helicopter Rescue! (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Ovni!",
+    "size": "535370",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Ovni! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "P.T. Barnum's Acrobats",
+    "size": "521854",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/P.T. Barnum's Acrobats (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/P.T. Barnum's Acrobats (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/P.T. Barnum's Acrobats (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/P.T. Barnum's Acrobats (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Pachinko",
+    "size": "417952",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Pachinko (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Pachinko (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Pachinko (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Pachinko (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Pachinko!",
+    "size": "466681",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Pachinko! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Pairs + Space Rendezvous + Logic",
+    "size": "657540",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Pairs + Space Rendezvous + Logic (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Pairs + Space Rendezvous + Logic (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Pairs + Space Rendezvous + Logic (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Pairs + Space Rendezvous + Logic (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Pegue O Dinheiro E Corra!",
+    "size": "399638",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Pegue O Dinheiro E Corra! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Peter Tete de Piocho",
+    "size": "670728",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Peter Tete de Piocho (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Pick Axe Pete",
+    "size": "577439",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Pick Axe Pete (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Pick Axe Pete (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Pick Axe Pete (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Pick Axe Pete (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Pick Axe Pete!",
+    "size": "524816",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Pick Axe Pete! (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Pickaxe Pete",
+    "size": "818270",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Pickaxe Pete (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Pinball",
+    "size": "406135",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Pinball (USA) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Pinball (USA) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Pinball (USA) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Pinball!",
+    "size": "406135",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Pinball! (Brazil) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Planet Lander",
+    "size": "185746",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Planet Lander (USA) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Planet Lander (USA) (Unl).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Playschool Maths",
+    "size": "613543",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Playschool Maths (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Playtag",
+    "size": "178260",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Playtag (Europe) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Playtag (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Playtag (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Pocket Billiards",
+    "size": "457050",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Pocket Billiards (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Pocket Billiards (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Pocket Billiards (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Pocket Billiards (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Pong",
+    "size": "755880",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Pong (USA) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Pong (2003) (USA) (Unl).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Pong (2004) (USA) (Unl).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Ponto Critico!",
+    "size": "355235",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Ponto Critico! (Brazil) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Popeye",
+    "size": "501535",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Popeye (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Popeye (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Popeye (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Popeye (Brazil).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Popeye (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Power Lords",
+    "size": "561950",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Power Lords (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Power Lords (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Power Lords (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Power Lords (USA) (Alt 1).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Power Lords (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Prendre l'Argent et Fuir",
+    "size": "597086",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Prendre l'Argent et Fuir (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Prendre l'Argent et Fuir (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Prendre l'Argent et Fuir (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Prendre l'Argent et Fuir (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Puzzle Piece Panic!",
+    "size": "608210",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Puzzle Piece Panic! (USA) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Puzzle Piece Panic! (USA) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Q-Bert",
+    "size": "478087",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Q-Bert (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Q-Bert (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Q-Bert (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Q-Bert (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Quest for the Rings",
+    "size": "401224",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Quest for the Rings (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Quest for the Rings (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Quest for the Rings (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Quest for the Rings (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Quete Des Anneaux, La",
+    "size": "332834",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Quete Des Anneaux, La (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Race",
+    "size": "587748",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Race (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Race + Spin-out + Cryptogram",
+    "size": "615069",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Race + Spin-out + Cryptogram (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Red Baron",
+    "size": "451171",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Red Baron (Europe) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Red Baron (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Red Baron (Europe) (Proto) (Alt 1).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Red Baron (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Resgate! Palavra Secreta!",
+    "size": "447575",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Resgate! Palavra Secreta! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Robot City",
+    "size": "623284",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Robot City (Europe) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Robot City (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Robot City (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Roboto!",
+    "size": "205096",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Roboto! (Brazil) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Route 66",
+    "size": "604422",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Route 66 (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Route 66 (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Samurai",
+    "size": "712245",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Samurai (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Samurai (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Samurai (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Samurai (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Satellite Attack",
+    "size": "700815",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Satellite Attack (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Satellite Attack (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Satellite Attack (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Satellite Attack (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Satellites attaquent, Les",
+    "size": "814526",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Satellites attaquent, Les (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Secret of the Pharaohs",
+    "size": "649712",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Secret of the Pharaohs (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Secret of the Pharaohs (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Secret of the Pharaohs (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Secret of the Pharaohs (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Senhor Das Trevas!",
+    "size": "528960",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Senhor Das Trevas! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Serpente Do Poder",
+    "size": "505921",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Serpente Do Poder (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Shark Hunter",
+    "size": "496355",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Shark Hunter (Europe) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Shark Hunter (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Shark Hunter (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Sherlock",
+    "size": "275903",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Sherlock (USA) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Sherlock Holmes",
+    "size": "322570",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Sherlock Holmes (Europe) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Showdown in 2100 A.D.",
+    "size": "395156",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Showdown in 2100 A.D. (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Showdown in 2100 A.D. (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Showdown in 2100 A.D. (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Showdown in 2100 A.D. (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Sid the Spellbinder",
+    "size": "374709",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Sid the Spellbinder (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Sid the Spellbinder (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Sid the Spellbinder (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Sid the Spellbinder (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Singeries",
+    "size": "659882",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Singeries (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Ski Alpin!",
+    "size": "450243",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Ski Alpin! (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Skiing",
+    "size": "675941",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Skiing (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Skiing (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Skiing (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Skiing (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Smithereens",
+    "size": "421918",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Smithereens (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Smithereens (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Smithereens (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Smithereens (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Spaans",
+    "size": "318228",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Spaans (Europe) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Space Attack+",
+    "size": "628240",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Space Attack+ (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Space monster",
+    "size": "713743",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Space monster (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Space Monster",
+    "size": "649952",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Space Monster (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Speedway + Spin-out + Crypto-logic",
+    "size": "426563",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Speedway + Spin-out + Crypto-logic (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Speedway + Spin-out + Crypto-logic (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Speedway + Spin-out + Crypto-logic (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Speedway + Spin-out + Crypto-logic (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Speurtocht Naar De Ringen",
+    "size": "352712",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Speurtocht Naar De Ringen (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Spider-Man",
+    "size": "491901",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Spider-Man (Europe) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Spider-Man (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Spider-Man (Europe) (Proto) (Alt 1).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Spider-Man (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Stone Sling",
+    "size": "700960",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Stone Sling (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Stone Sling (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Stone Sling (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Stone Sling (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Stone Sling+",
+    "size": "637222",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Stone Sling+ (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Super Bee",
+    "size": "621854",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Super Bee (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Super Bee (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Super Bee (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Super Bee (Brazil).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Super Bee (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Super Cobra",
+    "size": "416689",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Super Cobra (Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Super Cobra (Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Super Cobra (Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Super Cobra (Brazil).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Super Cobra (Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Super Glouton",
+    "size": "497682",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Super Glouton (France).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Syracuse",
+    "size": "16741",
+    "logo": "",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Syracuse (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Take the money and run",
+    "size": "597029",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Take the money and run (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Take the Money and Run",
+    "size": "352023",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Take the Money and Run (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Take the Money and Run (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Take the Money and Run (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Take the Money and Run (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Tartarugas!",
+    "size": "520375",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Tartarugas! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Telegrafista!",
+    "size": "553779",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Telegrafista! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Telejogo!",
+    "size": "186980",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Telejogo! (Brazil) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Telejogo! - Versao Definitiva!",
+    "size": "426789",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Telejogo! - Versao Definitiva! (Brazil) (Proto).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Tenpin + Bowling + Basketball(Europe)",
+    "size": "474586",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Tenpin + Bowling + Basketball(Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Terrahawks",
+    "size": "726201",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Terrahawks (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Terrahawks+",
+    "size": "600410",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Terrahawks+ (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Thunderball",
+    "size": "407710",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Thunderball (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Thunderball (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Thunderball (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Thunderball (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Trans American Rally",
+    "size": "590861",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Trans American Rally (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Turtles",
+    "size": "665609",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Turtles (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Turtles (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Turtles (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Turtles (Europe).png",
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Turtles (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Tutankham",
+    "size": "498444",
+    "logo": "",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Tutankham (Europe) (Proto).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Tutankham (Europe) (Proto).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Tutankham (Europe) (Proto).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Type _ Tell",
+    "size": "691721",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Type _ Tell (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Type _ Tell (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Type _ Tell (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Type _ Tell (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Type & Tell",
+    "size": "7028",
+    "logo": "",
+    "title_image": "",
+    "portrait": "",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Type & Tell (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "UFO",
+    "size": "421103",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/UFO (USA).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/UFO (USA).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/UFO (USA).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/UFO (USA).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "UFO!",
+    "size": "525723",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/UFO! (Canada).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Verdens Erobring",
+    "size": "259925",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Verdens Erobring (Europe).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Verkehrsspiele 1",
+    "size": "323204",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Verkehrsspiele 1 (Germany).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Verkehrsspiele 1 (Germany).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Verkehrsspiele 1 (Germany).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Verkehrsspiele 1 (Germany).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Verkehrsspiele 2",
+    "size": "364827",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Verkehrsspiele 2 (Germany).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Verkehrsspiele 2 (Germany).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Verkehrsspiele 2 (Germany).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Verkehrsspiele 2 (Germany).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Voleibol!",
+    "size": "408931",
+    "logo": "",
+    "title_image": "",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Voleibol! (Brazil).png",
+    "gameplay_covers": [],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Volleyball",
+    "size": "347809",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Volleyball (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Volleyball (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Volleyball (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Volleyball (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Volleyball Electronique",
+    "size": "644184",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Volleyball Electronique (France).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Volleyball Electronique (France).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Volleyball Electronique (France).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Volleyball Electronique (France).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "Wall Street",
+    "size": "256993",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/Wall Street (Brazil).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/Wall Street (Brazil).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/Wall Street (Brazil).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/Wall Street (Brazil).png"
+    ],
+    "console": "odyssey2"
+  },
+  {
+    "title": "War of Nerves",
+    "size": "384239",
+    "logo": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Logos/War of Nerves (USA, Europe).png",
+    "title_image": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Titles/War of Nerves (USA, Europe).png",
+    "portrait": "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Boxarts/War of Nerves (USA, Europe).png",
+    "gameplay_covers": [
+      "https://raw.githubusercontent.com/libretro-thumbnails/Magnavox_-_Odyssey2/63e9a9e0359c0bc24174b9eaba03e590bae3ab58/Named_Snaps/War of Nerves (USA, Europe).png"
+    ],
+    "console": "odyssey2"
+  }
+]
