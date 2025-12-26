@@ -2,22 +2,22 @@
     {
         "package": "com.fastemulator.gbc",
         "activity": "com.fastemulator.gbc.EmulatorActivity",
-        "type": "application/x-gbc-rom"
+        "type": "*/*"
     },
     {
         "package": "com.fastemulator.gbcfree",
         "activity": "com.fastemulator.gbc.EmulatorActivity",
-        "type": "application/x-gbc-rom"
+        "type": "*/*"
     },
     {
         "package": "com.fastemulator.gba",
         "activity": "com.fastemulator.gba.EmulatorActivity",
-        "type": "application/x-gba-rom"
+        "type": "*/*"
     },
     {
         "package": "com.fastemulator.gbafree",
         "activity": "com.fastemulator.gba.EmulatorActivity",
-        "type": "application/x-gba-rom"
+        "type": "*/*"
     },
     {
         "package": "com.portableandroid.classicboyLite",
