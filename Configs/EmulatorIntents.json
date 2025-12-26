@@ -1,196 +1,112 @@
 [
     {
-        "console_slug": "GB",
-        "should_uncompress": false,
-        "intents": [
-            {
-                "package": "com.fastemulator.gbc",
-                "activity": "com.fastemulator.gbc.EmulatorActivity",
-                "type": "application/x-gbc-rom"
-            },
-            {
-                "package": "com.fastemulator.gbcfree",
-                "activity": "com.fastemulator.gbc.EmulatorActivity",
-                "type": "application/x-gbc-rom"
-            }
-        ]
+        "package": "com.fastemulator.gbc",
+        "activity": "com.fastemulator.gbc.EmulatorActivity",
+        "type": "application/x-gbc-rom"
     },
     {
-        "console_slug": "GBC",
-        "should_uncompress": false,
-        "intents": [
-            {
-                "package": "com.fastemulator.gbc",
-                "activity": "com.fastemulator.gbc.EmulatorActivity",
-                "type": "application/x-gbc-rom"
-            },
-            {
-                "package": "com.fastemulator.gbcfree",
-                "activity": "com.fastemulator.gbc.EmulatorActivity",
-                "type": "application/x-gbc-rom"
-            }
-        ]
+        "package": "com.fastemulator.gbcfree",
+        "activity": "com.fastemulator.gbc.EmulatorActivity",
+        "type": "application/x-gbc-rom"
     },
     {
-        "console_slug": "GBA",
-        "should_uncompress": false,
-        "intents": [
-            {
-                "package": "com.fastemulator.gba",
-                "activity": "com.fastemulator.gba.EmulatorActivity",
-                "type": "application/x-gba-rom"
-            },
-            {
-                "package": "com.fastemulator.gbafree",
-                "activity": "com.fastemulator.gba.EmulatorActivity",
-                "type": "application/x-gba-rom"
-            }
-        ]
+        "package": "com.fastemulator.gba",
+        "activity": "com.fastemulator.gba.EmulatorActivity",
+        "type": "application/x-gba-rom"
     },
     {
-        "console_slug": "NES",
-        "should_uncompress": false,
-        "intents": [
-            {
-                "package": "com.portableandroid.classicboyLite",
-                "activity": "com.portableandroid.classicboy.EntryActivity",
-                "type": "*/*"
-            }
-        ]
+        "package": "com.fastemulator.gbafree",
+        "activity": "com.fastemulator.gba.EmulatorActivity",
+        "type": "application/x-gba-rom"
     },
     {
-        "console_slug": "SNES",
-        "should_uncompress": false,
-        "intents": [
-            {
-                "package": "com.explusalpha.Snes9xPlus",
-                "activity": "com.imagine.BaseActivity",
-                "type": "*/*"
-            },
-            {
-                "package": "cl.godoiapps.snnes",
-                "activity": "com.jlizama.snnes.EmulatorActivity",
-                "type": "application/zip"
-            },
-            {
-                "package": "com.portableandroid.classicboyLite",
-                "activity": "com.portableandroid.classicboy.EntryActivity",
-                "type": "*/*"
-            }
-        ]
+        "package": "com.portableandroid.classicboyLite",
+        "activity": "com.portableandroid.classicboy.EntryActivity",
+        "type": "*/*"
     },
     {
-        "console_slug": "N64",
-        "should_uncompress": true,
-        "intents": [
-            {
-                "package": "org.mupen64plusae.v3.fzurita",
-                "activity": "paulscode.android.mupen64plusae.SplashActivity",
-                "type": "*/*"
-            },
-            {
-                "package": "paulscode.android.mupen64plus",
-                "activity": "paulscode.android.mupen64plusae.MainActivity",
-                "type": "*/*"
-            },
-            {
-                "package": "paulscode.android.mupen64plus.free",
-                "activity": "paulscode.android.mupen64plusae.MainActivity",
-                "type": "*/*"
-            }
-        ]
+        "package": "com.explusalpha.Snes9xPlus",
+        "activity": "com.imagine.BaseActivity",
+        "type": "*/*"
     },
     {
-        "console_slug": "PSX",
-        "should_uncompress": true,
-        "intents": [
-            {
-                "package": "com.portableandroid.classicboyLite",
-                "activity": "com.portableandroid.classicboy.EntryActivity",
-                "type": "*/*"
-            },
-            {
-                "package": "com.emulator.fpse",
-                "activity": "com.emulator.fpse.Main",
-                "action": "android.intent.action.VIEW",
-                "type": "*/*"
-            }
-        ]
+        "package": "cl.godoiapps.snnes",
+        "activity": "com.jlizama.snnes.EmulatorActivity",
+        "type": "application/zip"
     },
     {
-        "console_slug": "Genesis",
-        "should_uncompress": false,
-        "intents": [
-            {
-                "package": "com.portableandroid.classicboyLite",
-                "activity": "com.portableandroid.classicboy.EntryActivity",
-                "type": "*/*"
-            }
-        ]
+        "package": "com.portableandroid.classicboyLite",
+        "activity": "com.portableandroid.classicboy.EntryActivity",
+        "type": "*/*"
     },
     {
-        "console_slug": "Dreamcast",
-        "should_uncompress": true,
-        "intents": [
-            {
-                "package": "com.reicast.emulator",
-                "activity": "com.reicast.emulator.MainActivity",
-                "action": "android.intent.action.VIEW",
-                "type": "*/*"
-            }
-        ]
+        "package": "org.mupen64plusae.v3.fzurita",
+        "activity": "paulscode.android.mupen64plusae.SplashActivity",
+        "type": "*/*"
     },
     {
-        "console_slug": "NDS",
-        "should_uncompress": true,
-        "intents": [
-            {
-                "package": "com.dsemu.drastic",
-                "activity": "com.dsemu.drastic.DraSticActivity",
-                "type": "*/*"
-            },
-            {
-                "package": "com.NewDsemu.FreeDraStic",
-                "activity": "com.dsemu.drastic.DraSticActivity",
-                "type": "*/*"
-            }
-        ]
+        "package": "paulscode.android.mupen64plus",
+        "activity": "paulscode.android.mupen64plusae.MainActivity",
+        "type": "*/*"
     },
     {
-        "console_slug": "Psp",
-        "should_uncompress": true,
-        "intents": [
-            {
-                "package": "org.ppsspp.ppssppgold",
-                "activity": "org.ppsspp.ppsspp.PpssppActivity",
-                "type": "*/*"
-            },
-            {
-                "package": "org.ppsspp.ppsspp",
-                "activity": "org.ppsspp.ppsspp.PpssppActivity",
-                "type": "*/*"
-            }
-        ]
+        "package": "paulscode.android.mupen64plus.free",
+        "activity": "paulscode.android.mupen64plusae.MainActivity",
+        "type": "*/*"
     },
     {
-        "console_slug": "Gamecube",
-        "should_uncompress": true,
-        "intents": [
-            {
-                "package": "org.mm.jj",
-                "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
-                "type": "*/*"
-            },
-            {
-                "package": "org.mm.j",
-                "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
-                "type": "*/*"
-            },
-            {
-                "package": "org.dolphinemu.dolphinemu",
-                "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
-                "type": "*/*"
-            }
-        ]
+        "package": "com.emulator.fpse",
+        "activity": "com.emulator.fpse.Main",
+        "action": "android.intent.action.VIEW",
+        "type": "*/*"
+    },
+    {
+        "package": "com.reicast.emulator",
+        "activity": "com.reicast.emulator.MainActivity",
+        "action": "android.intent.action.VIEW",
+        "type": "*/*",
+        "should_uncompress": true
+    },
+    {
+        "package": "com.dsemu.drastic",
+        "activity": "com.dsemu.drastic.DraSticActivity",
+        "type": "*/*",
+        "should_uncompress": true
+    },
+    {
+        "package": "com.NewDsemu.FreeDraStic",
+        "activity": "com.dsemu.drastic.DraSticActivity",
+        "type": "*/*",
+        "should_uncompress": true
+    },
+    {
+        "package": "org.ppsspp.ppssppgold",
+        "activity": "org.ppsspp.ppsspp.PpssppActivity",
+        "type": "*/*",
+        "should_uncompress": true
+    },
+    {
+        "package": "org.ppsspp.ppsspp",
+        "activity": "org.ppsspp.ppsspp.PpssppActivity",
+        "type": "*/*",
+        "should_uncompress": true
+    },
+    {
+        "package": "org.mm.jj",
+        "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
+        "type": "*/*",
+        "should_uncompress": true
+    },
+    {
+        "package": "org.mm.j",
+        "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
+        "type": "*/*",
+        "should_uncompress": true
+    },
+    {
+        "package": "org.dolphinemu.dolphinemu",
+        "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
+        "type": "*/*",
+        "should_uncompress": true
     }
 ]
